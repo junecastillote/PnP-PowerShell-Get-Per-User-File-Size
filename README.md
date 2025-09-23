@@ -1,6 +1,6 @@
 # Get-SPOLibraryFileSize.ps1
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
+![PowerShell](https://img.shields.io/badge/PowerShell-7.4%2B-blue?logo=powershell)
 ![PnP.PowerShell](https://img.shields.io/badge/Requires-PnP.PowerShell-green)
 ![SharePoint Online](https://img.shields.io/badge/Target-SharePoint%20Online-orange)
 
